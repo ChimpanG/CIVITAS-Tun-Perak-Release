@@ -4,6 +4,7 @@
     <Name>CIVITAS [ICON_GREATPERSON] Tun Perak</Name>
     <Description>Adds Tun Perak as a leader for CIVITAS [ICON_GOVERNMENT] Malaysia.</Description>
     <CompatibleVersions xmlns="http://schemas.microsoft.com/developer/msbuild/2003">2.0</CompatibleVersions>
+    <Created>1571585007</Created>
     <Teaser>Adds Tun Perak as a leader for CIVITAS Malaysia.</Teaser>
     <Authors>ChimpanG</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
@@ -90,70 +91,6 @@
     <File>Core/TunPerak_Strategy.sql</File>
     <File>Core/TunPerak_UA.sql</File>
     <File>Core/TunPerak_UU.sql</File>
-    <File>Platforms/MacOS/BLPs/LeaderFallback.blp</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Berzerker_DeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Berzerker_DeathFromHeroAttackA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Horseman_BipedalDeathMeleeA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Impr_HeroDeath</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Infantry_DeathB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Pikeman_DeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Pikeman_DeathB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Redcoat_DeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Redcoat_HeroicA_Death</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Scout_DeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Scout_DeathB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Slinger_DeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Spearman_DeathFlyBackA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Spearman_DeathFromJumpStabFlipUnitInAir</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Spearman_SpawnA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Spearman_VictoryA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Tank_MainGunDeathA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitHeavy_Death_HitToHeadA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_BreathingA_NoArms</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_BreathingA_NoArmsUncompressed</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_CorkscrewDeathFromSwordsmanHeroA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_Death_LegionHeroAttackA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_Death_SamuraiHeroAttackA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_ProjectileDeathFlyBackA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Attack</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Backward</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Combat_Run</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Combat_Run_StopA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Death</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Forward</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_HeroDeath</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_IdleB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Idle_CombatA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Idle_CombatB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Idle_CombatC</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Idle_CombatD</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_React</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_React_RangedA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_React_RangedB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_React_RangedC</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Run</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Run_StopA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Run_StopB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Run_StopC</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_WarriorMonk_Run_StopD</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Warrior_AttackMeleeA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Warrior_AttackMeleeB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Warrior_DeathMeleeA</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Warrior_DeathMeleeB</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_CVS_Pesilat_ArmorA_m</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_CVS_Pesilat_ArmorA_a2_CVS_Pesilat_ArmorA_t</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Samurai_Accessories_a_Samurai_Accessories_t</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Samurai_Accessories_ao</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Samurai_Accessories_g</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Samurai_Accessories_m</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Samurai_Accessories_n0</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Samurai_Accessories_n1</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_VaruRider_A_ao</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_VaruRider_A_g</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_VaruRider_A_n0</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_VaruRider_A_n1</File>
-    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
-    <File>Platforms/MacOS/BLPs/units/units.blp</File>
     <File>Platforms/Windows/BLPs/LeaderFallback.blp</File>
     <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Berzerker_DeathA</File>
     <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Berzerker_DeathFromHeroAttackA</File>
